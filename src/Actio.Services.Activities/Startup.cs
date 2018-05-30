@@ -33,9 +33,6 @@ namespace Actio.Services.Activities
             services.AddScoped<IActivityRepository, ActivityRepository>();
             services.AddScoped<ICategoryRepository, CategoryRepository>();
             services.AddScoped<IDatabaseSeeder, CustomMongoSeeder>();
-
-            var serviceProvider = services.BuildServiceProvider();
-            var databaseInitialize = serviceProvider.GetService<IDatabaseInitializer>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -46,7 +43,10 @@ namespace Actio.Services.Activities
                 app.UseDeveloperExceptionPage();
             }
 
-            app.ApplicationServices.GetService<IDatabaseInitializer>().InitializeAsync();
+            using (var serviceScope = app.ApplicationServices.CreateScope())
+            {
+                serviceScope.ServiceProvider.GetService<IDatabaseInitializer>().InitializeAsync();
+            }
             app.UseMvc();
         }
     }
