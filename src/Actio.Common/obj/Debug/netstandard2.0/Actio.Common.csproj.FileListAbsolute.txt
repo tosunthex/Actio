@@ -1,0 +1,9 @@
+/home/levent/RiderProjects/Actio/src/Actio.Common/bin/Debug/netstandard2.0/Actio.Common.deps.json
+/home/levent/RiderProjects/Actio/src/Actio.Common/bin/Debug/netstandard2.0/Actio.Common.dll
+/home/levent/RiderProjects/Actio/src/Actio.Common/bin/Debug/netstandard2.0/Actio.Common.pdb
+/home/levent/RiderProjects/Actio/src/Actio.Common/obj/Debug/netstandard2.0/Actio.Common.csprojAssemblyReference.cache
+/home/levent/RiderProjects/Actio/src/Actio.Common/obj/Debug/netstandard2.0/Actio.Common.csproj.CoreCompileInputs.cache
+/home/levent/RiderProjects/Actio/src/Actio.Common/obj/Debug/netstandard2.0/Actio.Common.AssemblyInfoInputs.cache
+/home/levent/RiderProjects/Actio/src/Actio.Common/obj/Debug/netstandard2.0/Actio.Common.AssemblyInfo.cs
+/home/levent/RiderProjects/Actio/src/Actio.Common/obj/Debug/netstandard2.0/Actio.Common.dll
+/home/levent/RiderProjects/Actio/src/Actio.Common/obj/Debug/netstandard2.0/Actio.Common.pdb

@@ -1,0 +1,14 @@
+/home/levent/RiderProjects/Actio/src/Actio.Services.Activities/bin/Debug/netcoreapp2.0/Actio.Services.Activities.deps.json
+/home/levent/RiderProjects/Actio/src/Actio.Services.Activities/bin/Debug/netcoreapp2.0/Actio.Services.Activities.runtimeconfig.json
+/home/levent/RiderProjects/Actio/src/Actio.Services.Activities/bin/Debug/netcoreapp2.0/Actio.Services.Activities.runtimeconfig.dev.json
+/home/levent/RiderProjects/Actio/src/Actio.Services.Activities/bin/Debug/netcoreapp2.0/Actio.Services.Activities.dll
+/home/levent/RiderProjects/Actio/src/Actio.Services.Activities/bin/Debug/netcoreapp2.0/Actio.Services.Activities.pdb
+/home/levent/RiderProjects/Actio/src/Actio.Services.Activities/bin/Debug/netcoreapp2.0/Actio.Common.dll
+/home/levent/RiderProjects/Actio/src/Actio.Services.Activities/bin/Debug/netcoreapp2.0/Actio.Common.pdb
+/home/levent/RiderProjects/Actio/src/Actio.Services.Activities/obj/Debug/netcoreapp2.0/Actio.Services.Activities.csprojAssemblyReference.cache
+/home/levent/RiderProjects/Actio/src/Actio.Services.Activities/obj/Debug/netcoreapp2.0/Actio.Services.Activities.csproj.CoreCompileInputs.cache
+/home/levent/RiderProjects/Actio/src/Actio.Services.Activities/obj/Debug/netcoreapp2.0/Actio.Services.Activities.AssemblyInfoInputs.cache
+/home/levent/RiderProjects/Actio/src/Actio.Services.Activities/obj/Debug/netcoreapp2.0/Actio.Services.Activities.AssemblyInfo.cs
+/home/levent/RiderProjects/Actio/src/Actio.Services.Activities/obj/Debug/netcoreapp2.0/Actio.Services.Activities.csproj.CopyComplete
+/home/levent/RiderProjects/Actio/src/Actio.Services.Activities/obj/Debug/netcoreapp2.0/Actio.Services.Activities.dll
+/home/levent/RiderProjects/Actio/src/Actio.Services.Activities/obj/Debug/netcoreapp2.0/Actio.Services.Activities.pdb
