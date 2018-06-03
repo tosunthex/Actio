@@ -43,6 +43,7 @@
           </e>
           <e p="Events" t="Include">
             <e p="ActivityCreated.cs" t="Include" />
+            <e p="CreateActivityRejected.cs" t="Include" />
             <e p="CreateUserRejected.cs" t="Include" />
             <e p="IAuthenticatedEvent.cs" t="Include" />
             <e p="IEvent.cs" t="Include" />
@@ -50,6 +51,9 @@
             <e p="IRejectedEvent.cs" t="Include" />
             <e p="UserAuthenticated.cs" t="Include" />
             <e p="UserCreated.cs" t="Include" />
+          </e>
+          <e p="Exceptions" t="Include">
+            <e p="ActioException.cs" t="Include" />
           </e>
           <e p="Mongo" t="Include">
             <e p="Extensions.cs" t="Include" />
@@ -100,7 +104,9 @@
             <e p="CategoryRepository.cs" t="Include" />
           </e>
           <e p="Services" t="Include">
+            <e p="ActivityService.cs" t="Include" />
             <e p="CustomMongoSeeder.cs" t="Include" />
+            <e p="IActivityService.cs" t="Include" />
           </e>
           <e p="Startup.cs" t="Include" />
           <e p="appsettings.Development.json" t="Include" />
